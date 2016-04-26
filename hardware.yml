@@ -1,0 +1,14 @@
+- name: Raspberry Pi
+  img: raspberry-pi
+- name: Monitor or TV
+  img: monitor
+- name: HDMI cable
+  img: hdmi-cable
+- name: USB keyboard
+  img: keyboard
+- name: USB mouse
+  img: mouse
+- name: Power supply
+  img: power-supply
+- name: 8GB SD card
+  img: noobs-card
