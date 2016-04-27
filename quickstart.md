@@ -1,24 +1,20 @@
 # Raspberry Pi Quick Start Guide
 
-Got a Raspberry Pi? Great: let's get started by making sure you have all the cables and accessories before plugging them all in and logging in for the first time.
-
-## Check you have the equipment you need
-
-Before you plug anything into your Raspberry Pi, make sure that you have all the equipment you have [all the equipment listed here](https://www.raspberrypi.org/learning/quick-start-guide/requirements/).
+So you've got a Raspberry Pi, and you've made sure you have all the [physical equipment]() you need. Now what? It's time to get yourself an Operating System and boot up your Raspberry Pi 
 
 ![](images/all-the-things.png)
 
-To get started with Raspberry Pi, you also need an operating system. NOOBS (New Out Of Box Software) is an easy operating system install manager for the Raspberry Pi. Raspbian is the most common operating system used with the Raspberry Pi. You can download a Raspbian image to an SD card.
+## Geting an Operating System
+
+The recommended Operating System for use with the Raspberry Pi is called Raspbian. Raspbian is a version of GNU/Linux, designed specifically to work well with the Raspberry Pi. You have several options when it comes to getting hold of a copy of Raspbian.
 
 ### Buy a preinstalled SD card
 
-The easiest way to get NOOBS or Raspbian is to buy an SD card with the software already installed, available online from various resellers. If you have purchased one of these cards, then you can skip to 'Plugging in your Raspberry Pi' below.
+The easiest way to get NOOBS or Raspbian is to buy an SD card with the software already installed. You can get a preinstalled Raspbian card [here](http://uk.rs-online.com/web/c/computing-peripherals/data-storage-memory/secure-digital-cards/?searchTerm=noobs and here
 
-Alternatively, if you have a spare SD card (8GB recommended), then you can download NOOBS or Raspbian for free and install it on your card.
+### Install Raspbian with NOOBS
 
-## Format your SD card
-
-It is best to format your SD card on your computer or laptop before copying the NOOBS files onto it or adding the Raspbian image. To do this:
+NOOBS stands for **N**ew **O**ut **O**f **B**ox **S**oftware, and if you've never before played around with GNU/Linux, then it is the best place to start. To begin with, it's always a good idea to make sure you have formatted you SD Card. You'll need to make sure your computer has a built-in SD card reader, or use an USB SD Card reader.
 
 1. Visit the [SD Association’s website](http://www.sdcard.org/) and download [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) for either Windows or Mac.
 1. Follow the instructions to install the software.
@@ -27,9 +23,9 @@ It is best to format your SD card on your computer or laptop before copying the 
 
   ![](images/SD-Formatter.jpg)
 
-### Download NOOBS files then drag and drop
+#### Download NOOBS files then drag and drop
 
-1. Using a computer with an SD card reader, visit the official Raspberry Pi [Downloads page](http://www.raspberrypi.org/downloads/).
+1. Visit the official Raspberry Pi [Downloads page](http://www.raspberrypi.org/downloads/).
 
   ![](images/siteHome.png)
 
@@ -67,16 +63,9 @@ An alternative to using NOOBS to install Raspbian is to download and install the
 
   ![](images/etcher.gif)
 
-## Plugging in your Raspberry Pi
 
-1. Begin by slotting your SD card into the SD card slot on the Raspberry Pi. It will only fit one way.
-1. Next, plug in your USB keyboard and mouse into the USB ports on the Raspberry Pi.
-1. Make sure that your monitor or TV is turned on, and that you have selected the right input (e.g. HDMI 1, DVI, etc).
-1. Connect your HDMI cable from your Raspberry Pi to your monitor or TV.
-1. If you intend to connect your Raspberry Pi to the internet, plug an Ethernet cable into the Ethernet port, or connect a WiFi dongle to one of the USB ports. 
-1. When you are happy that you have plugged all the cables and SD card in correctly, connect the micro USB power supply. This action will turn on and boot your Raspberry Pi.
-
-  ![Plugging in](images/plug-in.gif)
+## First Boot
+Now that you have an operating system, you can slot your SD card into your Raspberry Pi and connect the power. Follow the [hardware help section]() if you need assistance with this.
 
 1. If this is the first time your Raspberry Pi and SD card have been used, then you will have to select an operating system and configure it.
 
