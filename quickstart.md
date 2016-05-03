@@ -10,7 +10,7 @@ The recommended Operating System for use with the Raspberry Pi is called Raspbia
 
 ### Buy a preinstalled SD card
 
-The easiest way to get NOOBS or Raspbian is to buy an SD card with the software already installed. You can get a preinstalled Raspbian card [here](http://uk.rs-online.com/web/c/computing-peripherals/data-storage-memory/secure-digital-cards/?searchTerm=noobs and here
+The easiest way to get NOOBS or Raspbian is to buy an SD card with the software already installed. You can get a preinstalled Raspbian card [here](http://uk.rs-online.com/web/c/computing-peripherals/data-storage-memory/secure-digital-cards/?searchTerm=noobs) and [here](https://thepihut.com/products/raspbian-preinstalled-sd-card)
 
 ### Install Raspbian with NOOBS
 
@@ -87,4 +87,4 @@ Now that you have an operating system, you can slot your SD card into your Raspb
 - Connect your Raspberry Pi to [WiFi](wifi.md)
 - Install more [applications](install-apps.md)
 - Discover how to [back up your SD card](backup.md)
-- Get started learning or making with our free [resources](https://www.raspberrypi.org/resources/)
+
