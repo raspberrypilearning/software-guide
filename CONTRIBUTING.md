@@ -4,7 +4,7 @@ All contributions are assumed to be licensed under the same licence as the sourc
 
 ## Issues
 
-If you find a mistake, bug or other problem, please [open an issue](https://github.com/raspberrypilearning/quick-start-guide/issues) in this repository.
+If you find a mistake, bug or other problem, please [open an issue](https://github.com/raspberrypilearning/help-software-guide/issues) in this repository.
 
 ## Pull Requests
 
@@ -24,4 +24,4 @@ Unless otherwise specified, everything in this repository is covered by the foll
 
 ***Quick Start Guide*** by the [Raspberry Pi Foundation](http://www.raspberrypi.org) is licenced under a [Creative Commons Attribution 4.0 International Licence](http://creativecommons.org/licenses/by-sa/4.0/).
 
-Based on a work at https://github.com/raspberrypilearning/quick-start-guide
+Based on a work at https://github.com/raspberrypilearning/help-software-guide

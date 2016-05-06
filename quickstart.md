@@ -1,4 +1,4 @@
-# Raspberry Pi Quick Start Guide
+# Raspberry Pi Software Guide
 
 So you've got a Raspberry Pi, and you've made sure you have all the [physical equipment]() you need. Now what? It's time to get yourself an Operating System and boot up your Raspberry Pi 
 

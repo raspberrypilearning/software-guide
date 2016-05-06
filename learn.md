@@ -1,4 +1,6 @@
 By following this tutorial you will learn:
 
-- What equipment you will need and how to set up your Raspberry Pi
-- How to download and install the software you need on an SD card
+- How to install an operating system to an SD card for you Raspberry Pi
+- How to connect your Raspberry Pi to the internet
+- How to update your Raspberry Pi and download and install new software
+- How to backup your files
