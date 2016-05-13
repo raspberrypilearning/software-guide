@@ -1,6 +1,6 @@
 # Updating and upgrading your SD card
 
-Keeping the software on your SD card up to date is a good starting point for any project and is very simple to do. Your Raspberry Pi will need to be connected to the internet via an Ethernet cable or WiFi in order for these steps to work.
+Keeping the software on your SD card up-to-date is a good starting point for any project and is very simple to do. Your Raspberry Pi will need to be connected to the internet via an Ethernet cable or WiFi in order for these steps to work.
 
 ## Update
 
