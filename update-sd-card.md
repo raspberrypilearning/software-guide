@@ -4,7 +4,7 @@ Keeping the software on your SD card up to date is a good starting point for any
 
 ## Update
 
-You will need to type a command into a terminal window, or on the command line, once you have logged into your Pi.
+You will need to type a command into a terminal window, once you have logged into your Pi.
 
 1. Open a **Terminal** window by clicking on **Main Menu**, **Accessories** and **Terminal**. Alternatively, you can click on the Terminal icon in the taskbar.
 1. Next, type the following:
@@ -21,7 +21,7 @@ You will need to type a command into a terminal window, or on the command line, 
 
 Once the update process is complete, and any information about new versions of applications are downloaded, you will need to install the upgrades.
 
-1. In a terminal window or on the command line type:
+1. In a terminal window type:
 
   ```bash
   sudo apt-get upgrade
