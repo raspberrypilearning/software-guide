@@ -1,6 +1,6 @@
 # Raspberry Pi Software Guide
 
-So you've got a Raspberry Pi, and you've made sure you have all the [physical equipment](https://www.raspberrypi.org/learning/help-hardware-guide) you need. Now what? It's time to get yourself an Operating System and boot up your Raspberry Pi 
+So you've got a Raspberry Pi, and you've made sure you have all the [physical equipment](https://www.raspberrypi.org/learning/help-hardware-guide) you need. Now what? It's time to get yourself an Operating System and boot up your Raspberry Pi. 
 
 ![](images/all-the-things.png)
 
@@ -8,13 +8,13 @@ So you've got a Raspberry Pi, and you've made sure you have all the [physical eq
 
 The recommended Operating System for use with the Raspberry Pi is called Raspbian. Raspbian is a version of GNU/Linux, designed specifically to work well with the Raspberry Pi. You have several options when it comes to getting hold of a copy of Raspbian.
 
-### Buy a preinstalled SD card
+### Buy a pre-installed SD card
 
-The easiest way to get NOOBS or Raspbian is to buy an SD card with the software already installed. You can get a preinstalled Raspbian card [here](http://uk.rs-online.com/web/c/computing-peripherals/data-storage-memory/secure-digital-cards/?searchTerm=noobs) and [here](https://thepihut.com/products/raspbian-preinstalled-sd-card)
+The easiest way to get NOOBS or Raspbian is to buy an SD card with the software already installed. You can get a pre-installed Raspbian card from [RS](http://uk.rs-online.com/web/c/computing-peripherals/data-storage-memory/secure-digital-cards/?searchTerm=noobs) or [The Pi Hut](https://thepihut.com/products/raspbian-preinstalled-sd-card)
 
 ### Install Raspbian with NOOBS
 
-NOOBS stands for **N**ew **O**ut **O**f **B**ox **S**oftware, and if you've never before played around with GNU/Linux, then it is the best place to start. To begin with, it's always a good idea to make sure you have formatted you SD Card. You'll need to make sure your computer has a built-in SD card reader, or use a USB SD Card reader.
+NOOBS stands for **N**ew **O**ut **O**f **B**ox **S**oftware, and if you've never before played around with GNU/Linux, then it's the best place to start. To begin with, it's always a good idea to make sure you have formatted you SD Card. You'll need to make sure your computer has a built-in SD card reader, or you can use a USB SD Card reader.
 
 1. Visit the [SD Association’s website](http://www.sdcard.org/) and download [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) for either Windows or Mac.
 1. Follow the instructions to install the software.
@@ -44,7 +44,7 @@ NOOBS stands for **N**ew **O**ut **O**f **B**ox **S**oftware, and if you've neve
 
 ### Download and image Raspbian directly
 
-An alternative to using NOOBS to install Raspbian is to download and install the image directly. This is a faster process, and great if you need to image multiple cards for a workshop or class.
+An alternative to using NOOBS to install Raspbian is to download and install the image directly. This is a faster process, and is great if you need to image multiple cards for a workshop or class.
 
 1. Using a computer with an SD card reader, visit the official Raspberry Pi [Downloads page](http://www.raspberrypi.org/downloads/).
 1. Click on **Raspbian**.
@@ -56,10 +56,10 @@ An alternative to using NOOBS to install Raspbian is to download and install the
 
   ![](images/noobs2.png)
 
-1. Visit [etcher.io](http://www.etcher.io/), and download and install the Etcher SD card image utility.
+1. Visit [etcher.io](http://www.etcher.io/) and download and install the Etcher SD card image utility.
 1. Run Etcher and select the Raspbian image you unzipped on your computer or laptop.
 1. Then select the SD card drive. Note that the software may have already selected the right drive.
-1. Finally, click **Burn** to transfer Raspbian to the SD card. You will see a progress bar that tells you how much is left to do. Once complete, the utility will automatically eject or unmount the SD card so it is safe to remove it from the computer.
+1. Finally, click **Burn** to transfer Raspbian to the SD card. You will see a progress bar that tells you how much is left to do. Once complete, the utility will automatically eject/unmount the SD card so it's safe to remove it from the computer.
 
   ![](images/etcher.gif)
 
@@ -73,7 +73,7 @@ Now that you have an operating system, you can slot your SD card into your Raspb
 
 ## The first time you power on
 
-1. Once you have plugged in the power cable to your Raspberry Pi, it will boot; if you are using NOOBS, a window will appear with a list of different operating systems that you can install. We recommend that you use Raspbian: tick the box next to Raspbian and click on **Install**.
+1. Once you have plugged in the power cable to your Raspberry Pi, it will boot. If you are using NOOBS, a window will appear with a list of different operating systems that you can install. We recommend that you use Raspbian: tick the box next to Raspbian and click on **Install**.
 
   ![](images/noobs.png)
 
