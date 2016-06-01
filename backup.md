@@ -56,7 +56,7 @@ You're going to need your Raspberry Pi's IP address to copy files over a network
 
   ![winscp](images/winscp2.png)
 
-5. Double-click the file and then click on **Run**:
+5. Double-click the file and then click on **Run** if you are asked:
 
   ![winscp](images/winscp3.png)
 
