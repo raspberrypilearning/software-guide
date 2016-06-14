@@ -11,7 +11,7 @@ If you have a USB flash drive or a portable hard drive with enough storage, then
   ![USB](images/usb1.png)
 
 2. Open the USB drive in **File Manager**.
-3. Use **File Manager** to open a second window and position it side by side.
+3. Use **File Manager** to open a second window and position it alongside.
 
   ![USB](images/usb2.png)
 
