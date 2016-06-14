@@ -1,6 +1,6 @@
-Got a Raspberry Pi? Great: Let's have a look at how to get an operating system onto you microSD card and start using software on your Raspberry Pi.
+Have you got a Raspberry Pi? Great! Let's have a look at how to get an operating system onto your micro SD card so you can start using software on your Raspberry Pi.
 
-- [Quick start](quickstart.md)
+- [Quick Start Guide](quickstart.md)
 - [Learn how to update your SD card](update-sd-card.md)
 - [Connect your Raspberry Pi to WiFi](wifi.md)
 - [Install more applications](install-apps.md)
