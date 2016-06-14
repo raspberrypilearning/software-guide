@@ -14,7 +14,7 @@ The easiest way to get NOOBS or Raspbian is to buy an SD card with the software 
 
 ### Install Raspbian with NOOBS
 
-NOOBS stands for **N**ew **O**ut **O**f **B**ox **S**oftware, and if you've never before played around with GNU/Linux, then it's the best place to start. To begin with, it's always a good idea to make sure you have formatted you SD Card. You'll need to make sure your computer has a built-in SD card reader, or you can use a USB SD Card reader.
+NOOBS stands for **N**ew **O**ut **O**f **B**ox **S**oftware, and if you've never before played around with GNU/Linux, then it's the best place to start. To begin with, it's always a good idea to make sure you have formatted your SD Card. You'll need to make sure your computer has a built-in SD card reader, or you can use a USB SD Card reader.
 
 1. Visit the [SD Association’s website](http://www.sdcard.org/) and download [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) for either Windows or Mac.
 1. Follow the instructions to install the software.
