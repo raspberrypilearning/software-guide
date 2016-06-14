@@ -9,4 +9,4 @@ You can use text commands to download and install extra applications that you ma
 
 - Learn how to [update your SD card](update-sd-card.md)
 - Connect your Raspberry Pi to [WiFi](wifi.md)
-- Return to [Quick Start Guide](worksheet.md)
+- Return to [Quick Start Guide](quickstart.md)
