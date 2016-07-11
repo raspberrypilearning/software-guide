@@ -1,6 +1,6 @@
 # Raspberry Pi software guide
 
-So you've got a Raspberry Pi, and you've made sure you have all the [physical equipment](https://www.raspberrypi.org/learning/help-hardware-guide) you need. Now what? It's time to get yourself an operating system and boot up your Raspberry Pi. 
+So you've got a Raspberry Pi, and you've made sure you have all the [physical equipment](https://www.raspberrypi.org/learning/hardware-guide) you need. Now what? It's time to get yourself an operating system and boot up your Raspberry Pi. 
 
 ![](images/all-the-things.png)
 
