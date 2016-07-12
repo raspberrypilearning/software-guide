@@ -13,6 +13,6 @@ If you want to connect your Raspberry Pi to the internet or local network then y
 
 ## What next?
 
-- Return to the [Quick Start Guide](worksheet.md)
+- Return to the [Raspberry Pi Software Guide](worksheet.md)
 - Learn how to [update your SD card](update-sd-card.md)
 - Install more [applications](install-apps.md)
