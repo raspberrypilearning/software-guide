@@ -24,7 +24,7 @@ If you can't copy the files over, it probably means you're using a USB drive tha
 
 You're going to need your Raspberry Pi's IP address to copy files over a network.
 
-1. Boot up your Raspberry Pi, ensure it's connected to the network, and then open up a terminal window.
+1. Boot up your Raspberry Pi, ensure it's connected to the network, and then open a terminal window.
 
 1. In the terminal, type:
 
@@ -36,9 +36,9 @@ You're going to need your Raspberry Pi's IP address to copy files over a network
 
 ### Linux and Mac instructions
 
-1. On your Linux or Mac computer, ensure you're connected to the **same** network as the Raspberry Pi, then open up a terminal window.
+1. On your Linux computer or Mac, ensure you're connected to the **same** network as the Raspberry Pi, then open a terminal window.
 
-1. Now type the following into the terminal, replacing the 10-digit IP address with the one you have taken from the Raspberry Pi:
+1. Now type the following into the terminal, replacing the ten-digit IP address with the one you have taken from the Raspberry Pi:
 
   ```bash
   rsync -av --exclude".*/" pi@192.168.1.111:/home/pi/ ~/RPi-backup
