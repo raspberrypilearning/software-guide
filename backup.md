@@ -92,11 +92,10 @@ If you're using a Linux machine, then you can copy the files directly from the S
 
   ![SD](images/SD2.png)
 
-Click on the link to go back to the [Quick Start Guide](quickstart.md).
 
 ## What next?
 
-- Return to the [Quick Start Guide](quickstart.md)
+- Return to the [Raspberry Pi Software Guide](quickstart.md)
 - Learn how to [update your SD card](update-sd-card.md)
 - Install more [applications](install-apps.md)
 - Connect to [WiFi](wifi.md)
