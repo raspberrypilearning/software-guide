@@ -12,7 +12,7 @@ If you have a USB flash drive or a portable hard drive with enough storage, then
 
 1. Open the USB drive in **File Manager**.
 
-1. Use File Manager to open a second window and position it alongside.
+1. Use File Manager to open a second window and position it alongside the first window.
 
   ![USB](images/usb2.png)
 
