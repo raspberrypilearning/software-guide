@@ -18,11 +18,10 @@ NOOBS stands for **N**ew **O**ut **O**f **B**ox **S**oftware, and if you've neve
 
 1. Visit the [SD Association’s website](http://www.sdcard.org/) and download [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) for either Windows or Mac.
 1. Follow the instructions to install the software.
-
-  ![](images/SD-Formatter.jpg)
-
 1. Insert your SD card into the computer or laptop’s SD card reader and make a note of the drive letter allocated to it, e.g. `F:/`.
 1. In SD Formatter, select the drive letter for your SD card and format it.
+
+  ![](images/SD-Formatter.jpg)
 
 #### Download NOOBS files then drag and drop
 
