@@ -13,7 +13,7 @@ You'll need to type a command into a terminal window once you have logged into y
   sudo apt-get update
   ```
   
-1. Then press **Enter** on the keyboard.
+1. Press **Enter** on the keyboard.
 
  You will see some text appear very quickly. Simply wait for the progress indicator at the bottom to reach 100% and then you'll be returned to the command line prompt.
 
