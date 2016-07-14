@@ -2,14 +2,6 @@
 
 ![](cover.png)
 
-So you've got a Raspberry Pi, and you've made sure you have all the physical equipment you need. Now what? It's time to get yourself an operating system and boot up your Raspberry Pi. 
-
-By following this tutorial you will learn:
-
-- How to install an operating system for your Raspberry Pi
-- How to download and install the software you need on an SD card
-- How to back up your files
-
 ## Licence
 
 Unless otherwise specified, everything in this repository is covered by the following licence:
