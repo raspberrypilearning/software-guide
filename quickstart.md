@@ -1,6 +1,6 @@
-# Raspberry Pi software guide
+# Raspberry Pi Software Guide
 
-So you've got a Raspberry Pi, and you've made sure you have all the [physical equipment](https://www.raspberrypi.org/learning/help-hardware-guide) you need. Now what? It's time to get yourself an operating system and boot up your Raspberry Pi. 
+So you've got a Raspberry Pi, and you've made sure you have all the [physical equipment](https://www.raspberrypi.org/learning/hardware-guide) you need. Now what? It's time to get yourself an operating system and boot up your Raspberry Pi. 
 
 ![](images/all-the-things.png)
 
@@ -21,7 +21,7 @@ NOOBS stands for **N**ew **O**ut **O**f **B**ox **S**oftware, and if you've neve
 1. Insert your SD card into the computer or laptop’s SD card reader and make a note of the drive letter allocated to it, e.g. `F:/`.
 1. In SD Formatter, select the drive letter for your SD card and format it.
 
-![](images/SD-Formatter.jpg)
+  ![](images/SD-Formatter.jpg)
 
 #### Download NOOBS files then drag and drop
 
@@ -58,28 +58,28 @@ An alternative to using NOOBS to install Raspbian is to download and install the
 
 1. Visit [etcher.io](http://www.etcher.io/) and download and install the Etcher SD card image utility.
 1. Run Etcher and select the Raspbian image you unzipped on your computer or laptop.
-1. Then select the SD card drive. Note that the software may have already selected the right drive.
-1. Finally, click **Burn** to transfer Raspbian to the SD card. You will see a progress bar that tells you how much is left to do. Once complete, the utility will automatically eject/unmount the SD card so it's safe to remove it from the computer.
+1. Select the SD card drive. Note that the software may have already selected the right drive.
+1. Finally, click **Burn** to transfer Raspbian to the SD card. You'll see a progress bar that tells you how much is left to do. Once complete, the utility will automatically eject/unmount the SD card so it's safe to remove it from the computer.
 
   ![](images/etcher.gif)
 
 
 ## First boot
 
-Now that you have an operating system, you can slot your SD card into your Raspberry Pi and connect the power. Follow the [hardware help section](https://www.raspberrypi.org/learning/help-hardware-guide) if you need assistance with this.
+Now that you have an operating system, you can slot your SD card into your Raspberry Pi and connect the power. Follow the [hardware help section](https://www.raspberrypi.org/learning/hardware-guide) if you need assistance with this.
 
-If this is the first time your Raspberry Pi and SD card have been used, then you will have to select an operating system and configure it.
+If this is the first time your Raspberry Pi and SD card have been used, then you'll have to select an operating system and configure it.
 
 <iframe src="https://player.vimeo.com/video/91631396" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## The first time you power on
 
-1. Once you have plugged in the power cable to your Raspberry Pi, it will boot. If you are using NOOBS, a window will appear with a list of different operating systems that you can install. We recommend that you use Raspbian: tick the box next to Raspbian and click on **Install**.
+1. Once you have plugged the power cable into your Raspberry Pi, it will boot. If you are using NOOBS, a window will appear with a list of different operating systems that you can install. We recommend that you use Raspbian: tick the box next to Raspbian and click on **Install**.
 
   ![](images/noobs.png)
 
 1. Raspbian will then run through its installation process. Please note that this can take a while.
-1. When the install process has completed, the Raspberry Pi configuration menu (`raspi-config`) will load. Here you are able to set the time and date for your region, enable a Raspberry Pi camera board, or even create users. You can exit this menu by using **Tab** on your keyboard to move to **Finish**.
+1. When the install process has completed, the Raspberry Pi configuration menu (`raspi-config`) will load. Here you can set the time and date for your region, enable a Raspberry Pi camera board, or even create users. You can exit this menu by using **Tab** on your keyboard to move to **Finish**.
 1. If you downloaded Raspbian and imaged it using Etcher rather than NOOBS, then you will boot directly to the desktop environment of Raspbian and won't need to wait.
 
 ## What next?

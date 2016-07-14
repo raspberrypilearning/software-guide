@@ -4,16 +4,16 @@ Keeping the software on your SD card up to date is a good starting point for any
 
 ## Update
 
-You'll need to type a command into a terminal window, once you have logged into your Pi.
+You'll need to type a command into a terminal window once you have logged into your Pi.
 
-1. Open a terminal window by clicking on **Main Menu**, **Accessories** and **Terminal**. Alternatively, you can click on the terminal icon in the taskbar.
+1. Open a terminal window by clicking on **Main Menu**, **Accessories**, and **Terminal**. Alternatively, you can click on the terminal icon in the taskbar.
 1. Next, type the following:
 
   ```bash
   sudo apt-get update
   ```
   
-1. Then press **Enter** on the keyboard.
+1. Press **Enter** on the keyboard.
 
  You will see some text appear very quickly. Simply wait for the progress indicator at the bottom to reach 100% and then you'll be returned to the command line prompt.
 
@@ -31,10 +31,10 @@ Once the update process is complete, and any information about new versions of a
 
 ## Checking space on an SD card
 
-When running `sudo apt-get upgrade`, it will show how much data will be downloaded and how much space it will take up on the SD card. It's worth checking with `df -h` to ensure that you have enough disk space free, as unfortunately `apt` will not do this for you. Also be aware that downloaded package files (.deb files) are kept in `/var/cache/apt/archives`. You can remove these in order to free up space with `sudo apt-get clean`.
+When running `sudo apt-get upgrade`, it will show how much data will be downloaded and how much space it will take up on the SD card. It's worth checking with `df -h` to ensure that you have enough disk space free, as unfortunately `apt` will not do this for you. Also be aware that downloaded package files (.deb files) are kept in `/var/cache/apt/archives`. You can remove these with `sudo apt-get clean` in order to free up space.
 
 ## What next?
 
-- Return to [Quick Start Guide](quickstart.md)
+- Return to [Raspberry Pi Software Guide](quickstart.md)
 - Install more [applications](install-apps.md)
 - Connect your Raspberry Pi to [WiFi](wifi.md)
