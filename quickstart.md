@@ -64,15 +64,13 @@ An alternative to using NOOBS to install Raspbian is to download and install the
   ![](images/etcher.gif)
 
 
-## First boot
+## The first time you power on
 
 Now that you have an operating system, you can slot your SD card into your Raspberry Pi and connect the power. Follow the [hardware help section](https://www.raspberrypi.org/learning/hardware-guide) if you need assistance with this.
 
-If this is the first time your Raspberry Pi and SD card have been used, then you'll have to select an operating system and configure it.
-
 <iframe src="https://player.vimeo.com/video/91631396" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-## The first time you power on
+If this is the first time your Raspberry Pi and SD card have been used, then you'll have to select an operating system and configure it.
 
 1. Once you have plugged the power cable into your Raspberry Pi, it will boot. If you are using NOOBS, a window will appear with a list of different operating systems that you can install. We recommend that you use Raspbian: tick the box next to Raspbian and click on **Install**.
 
