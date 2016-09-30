@@ -70,9 +70,9 @@ Now that you have an operating system, you can slot your SD card into your Raspb
 
 <iframe src="https://player.vimeo.com/video/91631396" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-If this is the first time your Raspberry Pi and SD card have been used, then you'll have to select an operating system and configure it.
+1. If you are using NOOBS and  this is the first time your Raspberry Pi and SD card have been used, then you'll have to select an operating system and let it install.
 
-![](images/noobs.gif)
+    ![](images/noobs.gif)
 
 1. If you downloaded Raspbian and imaged it using Etcher rather than NOOBS, then you will boot directly to the desktop environment of Raspbian and won't need to wait.
 
