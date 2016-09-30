@@ -29,6 +29,7 @@ NOOBS stands for **N**ew **O**ut **O**f **B**ox **S**oftware, and if you've neve
 
   ![](images/siteHome.png)
 
+
 1. Click on **NOOBS**.
 
   ![](images/noobs1.png)
@@ -39,8 +40,7 @@ NOOBS stands for **N**ew **O**ut **O**f **B**ox **S**oftware, and if you've neve
 1. The necessary files will then be transferred to your SD card.
 1. When this process has finished, safely remove the SD card and insert it into your Raspberry Pi.
 
-<iframe src="https://player.vimeo.com/video/90518800" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p></p>
+
 
 ### Download and image Raspbian directly
 
@@ -72,12 +72,8 @@ Now that you have an operating system, you can slot your SD card into your Raspb
 
 If this is the first time your Raspberry Pi and SD card have been used, then you'll have to select an operating system and configure it.
 
-1. Once you have plugged the power cable into your Raspberry Pi, it will boot. If you are using NOOBS, a window will appear with a list of different operating systems that you can install. We recommend that you use Raspbian: tick the box next to Raspbian and click on **Install**.
+![](images/noobs.gif)
 
-  ![](images/noobs.png)
-
-1. Raspbian will then run through its installation process. Please note that this can take a while.
-1. When the install process has completed, the Raspberry Pi configuration menu (`raspi-config`) will load. Here you can set the time and date for your region, enable a Raspberry Pi camera board, or even create users. You can exit this menu by using **Tab** on your keyboard to move to **Finish**.
 1. If you downloaded Raspbian and imaged it using Etcher rather than NOOBS, then you will boot directly to the desktop environment of Raspbian and won't need to wait.
 
 ## What next?
