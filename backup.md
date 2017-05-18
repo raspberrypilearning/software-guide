@@ -38,7 +38,7 @@ You're going to need your Raspberry Pi's IP address to copy files over a network
 
 1. On your Linux computer or Mac, ensure you're connected to the **same** network as the Raspberry Pi, then open a terminal window.
 
-1. Now type the following into the terminal, replacing the ten-digit IP address with the one you have taken from the Raspberry Pi:
+1. Now type the following into the terminal, replacing `192.168.1.111` with the IP address you have taken from the Raspberry Pi:
 
   ```bash
   rsync -av --exclude".*/" pi@192.168.1.111:/home/pi/ ~/RPi-backup
@@ -88,7 +88,7 @@ If you're using a Linux machine, then you can copy the files directly from the S
 
   ![SD](images/SD1.png)
 
-1. You files will be in `home/pi`, so double-click on the `home` directory and copy the entire `pi` directory to your local machine:
+1. Your files will be in `home/pi`, so double-click on the `home` directory and copy the entire `pi` directory to your local machine:
 
   ![SD](images/SD2.png)
 
