@@ -4,7 +4,7 @@ So you've got a Raspberry Pi, and you've made sure you have all the [physical eq
 
 ![](images/all-the-things.png)
 
-## Geting an operating system
+## Getting an operating system
 
 The recommended operating system for use with the Raspberry Pi is called Raspbian. Raspbian is a version of GNU/Linux, designed specifically to work well with the Raspberry Pi. You have several options when it comes to getting hold of a copy of Raspbian.
 
