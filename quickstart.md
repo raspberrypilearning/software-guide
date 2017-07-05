@@ -1,6 +1,6 @@
 # Raspberry Pi Software Guide
 
-So you've got a Raspberry Pi, and you've made sure you have all the [physical equipment](https://www.raspberrypi.org/learning/hardware-guide) you need. Now what? It's time to get yourself an operating system and boot up your Raspberry Pi. 
+So you've got a Raspberry Pi, and you've made sure you have all the [physical equipment](https://www.raspberrypi.org/learning/hardware-guide) you need. Now what? It's time to get yourself an operating system and boot up your Raspberry Pi.
 
 ![](images/all-the-things.png)
 
@@ -51,10 +51,10 @@ An alternative to using NOOBS to install Raspbian is to download and install the
 
   ![](images/noobs1.png)
 
-1. Click on the **Download ZIP** button under ‘Raspbian Jessie (full desktop image)’, and select a folder to save it to.
+1. Click on the **Download ZIP** button under ‘Raspbian Jessie with desktop’, and select a folder to save it to.
 1. Extract the files from the zip.
 
-  ![](images/noobs2.png)
+  ![](images/jessie1.png)
 
 1. Visit [etcher.io](http://www.etcher.io/) and download and install the Etcher SD card image utility.
 1. Run Etcher and select the Raspbian image you unzipped on your computer or laptop.
@@ -82,4 +82,3 @@ Now that you have an operating system, you can slot your SD card into your Raspb
 - Connect your Raspberry Pi to [WiFi](wifi.md)
 - Install more [applications](install-apps.md)
 - Discover how to [back up your SD card](backup.md)
-

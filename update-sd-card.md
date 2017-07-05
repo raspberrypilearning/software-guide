@@ -7,12 +7,15 @@ Keeping the software on your SD card up to date is a good starting point for any
 You'll need to type a command into a terminal window once you have logged into your Pi.
 
 1. Open a terminal window by clicking on **Main Menu**, **Accessories**, and **Terminal**. Alternatively, you can click on the terminal icon in the taskbar.
+
+    ![Open a terminal](images/terminal.png)
+    
 1. Next, type the following:
 
   ```bash
   sudo apt-get update
   ```
-  
+
 1. Press **Enter** on the keyboard.
 
  You will see some text appear very quickly. Simply wait for the progress indicator at the bottom to reach 100% and then you'll be returned to the command line prompt.
@@ -26,7 +29,7 @@ Once the update process is complete, and any information about new versions of a
   ```bash
   sudo apt-get upgrade
   ```
-  
+
 1. Press **Y** or **Enter** on the keyboard when prompted and your upgrades will be installed.
 
 ## Checking space on an SD card

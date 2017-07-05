@@ -16,7 +16,7 @@ If you have a USB flash drive or a portable hard drive with enough storage, then
 
   ![USB](images/usb2.png)
 
-1. You can now copy the contents of `/home/pi` onto the USB drive.
+1. You can now copy the contents of `/home/pi` onto the USB drive by dragging them across.
 
 If you can't copy the files over, it probably means you're using a USB drive that has been formatted to be used with Mac OS X. Try formatting the USB drive with a FAT32 file system, using your Mac's Disk Utility.
 
