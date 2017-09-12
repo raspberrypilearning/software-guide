@@ -56,9 +56,9 @@ An alternative to using NOOBS to install Raspbian is to download and install the
 
 1. Click on the **Download ZIP** button under ‘Raspbian Stretch with desktop’, and select a folder to save it to.
 
-1. Extract the files from the zip.
-
     ![](images/download-stretch.png)
+
+1. Extract the files from the zip.
 
 1. Visit [etcher.io](http://www.etcher.io/) and download and install the Etcher SD card image utility.
 1. Run Etcher and select the Raspbian image you unzipped on your computer or laptop.
