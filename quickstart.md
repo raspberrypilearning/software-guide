@@ -27,12 +27,11 @@ NOOBS stands for **N**ew **O**ut **O**f **B**ox **S**oftware, and if you've neve
 
 1. Visit the official Raspberry Pi [Downloads page](http://www.raspberrypi.org/downloads/).
 
-  ![Downloads page](images/downloads-page.png)
-
+    ![Downloads page](images/downloads-page.png)
 
 1. Click on **NOOBS**.
 
-  ![Click on NOOBS](images/click-noobs.png)
+    ![Click on NOOBS](images/click-noobs.png)
 
 1. Click on the **Download ZIP** button under ‘NOOBS (offline and network install)’, and select a folder to save it to.
 
