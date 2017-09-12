@@ -52,20 +52,20 @@ An alternative to using NOOBS to install Raspbian is to download and install the
 
 1. Click on **Raspbian**.
 
-  ![](images/downloads-page.png)
+    ![](images/downloads-page.png)
 
 1. Click on the **Download ZIP** button under ‘Raspbian Stretch with desktop’, and select a folder to save it to.
 
 1. Extract the files from the zip.
 
-  ![](images/download-stretch.png)
+    ![](images/download-stretch.png)
 
 1. Visit [etcher.io](http://www.etcher.io/) and download and install the Etcher SD card image utility.
 1. Run Etcher and select the Raspbian image you unzipped on your computer or laptop.
 1. Select the SD card drive. Note that the software may have already selected the right drive.
 1. Finally, click **Burn** to transfer Raspbian to the SD card. You'll see a progress bar that tells you how much is left to do. Once complete, the utility will automatically eject/unmount the SD card so it's safe to remove it from the computer.
 
-  ![](images/etcher.gif)
+    ![](images/etcher.gif)
 
 
 ## The first time you power on
