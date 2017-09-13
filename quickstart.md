@@ -27,14 +27,16 @@ NOOBS stands for **N**ew **O**ut **O**f **B**ox **S**oftware, and if you've neve
 
 1. Visit the official Raspberry Pi [Downloads page](http://www.raspberrypi.org/downloads/).
 
-  ![](images/siteHome.png)
-
+    ![Downloads page](images/downloads-page.png)
 
 1. Click on **NOOBS**.
 
-  ![](images/noobs1.png)
+    ![Click on NOOBS](images/click-noobs.png)
 
 1. Click on the **Download ZIP** button under ‘NOOBS (offline and network install)’, and select a folder to save it to.
+
+    ![Download ZIP](images/download-zip.png)
+
 1. Extract the files from the zip.
 1. Once your SD card has been formatted, drag all the files in the extracted NOOBS folder and drop them onto the SD card drive.
 1. The necessary files will then be transferred to your SD card.
@@ -47,21 +49,23 @@ NOOBS stands for **N**ew **O**ut **O**f **B**ox **S**oftware, and if you've neve
 An alternative to using NOOBS to install Raspbian is to download and install the image directly. This is a faster process, and is great if you need to image multiple cards for a workshop or class.
 
 1. Using a computer with an SD card reader, visit the official Raspberry Pi [Downloads page](http://www.raspberrypi.org/downloads/).
+
 1. Click on **Raspbian**.
 
-  ![](images/noobs1.png)
+    ![](images/downloads-page.png)
 
-1. Click on the **Download ZIP** button under ‘Raspbian Jessie with desktop’, and select a folder to save it to.
+1. Click on the **Download ZIP** button under ‘Raspbian Stretch with desktop’, and select a folder to save it to.
+
+    ![](images/download-stretch.png)
+
 1. Extract the files from the zip.
-
-  ![](images/jessie1.png)
 
 1. Visit [etcher.io](http://www.etcher.io/) and download and install the Etcher SD card image utility.
 1. Run Etcher and select the Raspbian image you unzipped on your computer or laptop.
 1. Select the SD card drive. Note that the software may have already selected the right drive.
 1. Finally, click **Burn** to transfer Raspbian to the SD card. You'll see a progress bar that tells you how much is left to do. Once complete, the utility will automatically eject/unmount the SD card so it's safe to remove it from the computer.
 
-  ![](images/etcher.gif)
+    ![](images/etcher.gif)
 
 
 ## The first time you power on
