@@ -23,7 +23,7 @@ NOOBS stands for **N**ew **O**ut **O**f **B**ox **S**oftware, and if you've neve
 
   ![](images/SD-Formatter.jpg)
 
-**Note**: If your SD card is 64GB or larger, it will automatically be formatted as exFAT which is not compatible with NOOBS. Follow [these instructions](https://www.raspberrypi.org/documentation/installation/sdxc_formatting.md) to force your SD card to format as FAT32 so that you can use NOOBS.
+**Note**: If your SD card has 64GB or more, it will automatically be formatted as exFAT, which is not compatible with NOOBS. Follow [these instructions](https://www.raspberrypi.org/documentation/installation/sdxc_formatting.md) to force your SD card to format as FAT32 so that you can use NOOBS.
 
 #### Download NOOBS files then drag and drop
 
