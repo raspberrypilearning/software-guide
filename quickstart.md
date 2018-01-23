@@ -85,6 +85,6 @@ Now that you have an operating system, you can slot your SD card into your Raspb
 ## What next?
 
 - Learn how to [update your SD card](update-sd-card.md)
-- Connect your Raspberry Pi to [WiFi](wifi.md)
+- Connect your Raspberry Pi to [wireless LAN](wifi.md)
 - Install more [applications](install-apps.md)
 - Discover how to [back up your SD card](backup.md)
